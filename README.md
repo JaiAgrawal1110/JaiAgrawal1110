@@ -153,6 +153,6 @@
 <br/>
 
 ### 💬 Open for Collaborations!
-Got an interesting project or idea? I'd love to connect — **[DM me on LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/jai-agrawal-a81319285/)**
+Got an interesting project or idea? I'd love to connect — **[DM me on LinkedIn](https://www.linkedin.com/in/jai-agrawal-a81319285/)**
 
 </div>

@@ -140,30 +140,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=JaiAgrawal1110&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/JaiAgrawal1110/JaiAgrawal1110/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
 
 *"I prioritize learning and the achievements that come from it — rather than just completion."*
 
 ⭐ **If you find my work useful, consider starring my repos!**
+
+</div>
+
+<br/>
+
+### 💬 Open for Collaborations!
+Got an interesting project or idea? I'd love to connect — **[DM me on LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/jai-agrawal-a81319285/)**
 
 </div>

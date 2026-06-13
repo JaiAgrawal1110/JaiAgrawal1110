@@ -118,12 +118,14 @@
 
 ---
 
-### 🧬 GenAI RAG Platform *(In Progress)*
-> A Retrieval-Augmented Generation platform leveraging LLMs and vector databases for intelligent document Q&A and knowledge retrieval. 🚧
->
+### 🔍 FinQuery — RAG Financial Research Assistant
+> Production-grade RAG system for financial document analysis — chat with SEC filings & annual reports, get cited answers in under 4 seconds. Built with FastAPI · ChromaDB · Groq · Next.js
+
+> [![Repo](https://img.shields.io/badge/GitHub-FinQuery-181717?style=flat-square&logo=github)](https://github.com/JaiAgrawal1110/FinQuery)
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-> ![Status](https://img.shields.io/badge/Status-Building-yellow?style=flat-square)
+> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+> ![ChromaDB](https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat-square)
+> ![Status](https://img.shields.io/badge/Status-Live-green?style=flat-square)
 
 ---
 

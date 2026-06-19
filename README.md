@@ -20,7 +20,7 @@
 - 🏭 Working on **industrial-grade AI platforms** and automation systems
 - ☁️ Currently leveling up in **Cloud & DevOps** — AWS, Docker, CI/CD pipelines
 - 🧠 Exploring **GenAI & RAG** — LLMs, vector databases, retrieval-augmented generation
-- 💬 Ask me about **Mobile App Dev · System Design · Java · React Native · JavaScript · Express**
+- 💬 Ask me about **Software Engineering · Web Dev · AI/ML · GenAI · Java · System Design · Cloud**
 - 🤝 **Open for collaborations** — especially open source projects
 
 ---

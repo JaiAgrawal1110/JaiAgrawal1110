@@ -164,7 +164,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiAgrawal1110&theme=dark&hide_border=true&layout=compact&langs_count=8" width="40%" />
 
 </div>
 
